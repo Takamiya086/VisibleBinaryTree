@@ -10,3 +10,6 @@ Use WPF
 **Non-Recursion-PostOrder**:Non-Recursively perform the post-order traversal.  
 **LevelOrder**:Non-Recursively perform the level traversal.  
 **CountLeafNodes**:Recursively count the number of leaf nodes.  
+
+If you want to create a binary tree, you just need to enter the string directly, and the regex will determine whether it is valid or not.  
+Such as __"ABC##DE#G##F###"__
